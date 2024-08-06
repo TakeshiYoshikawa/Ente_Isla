@@ -1,11 +1,6 @@
 Ente Isla Translator
 ==
 
-A live preview of this application can be viewed [**here**][preview].
-
-This application is a simple translator for the fake language of "Ente Isla", from the anime "The Devil is a Part-Timer!". The language is not really a language, but a simple cryptographic arrangement of the Latin alphabet. Leaving the vowels alone, you simply reverse the direction of the consonants so that the word "HUMAN" will come out as "TUPAN" and vice versa.
-
-
 Installation
 --
 
